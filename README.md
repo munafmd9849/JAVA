@@ -9,7 +9,7 @@ Providing security doesn't mean preventing access but providing controlled acces
 You can prevent access by using "private" and provide controlled access by using "public" (u can also use setters and getters)
 Encapsulation is also referred to wrapping of data members and methods associated with those members in same class
 
-================================================================================================
+#
 
 ## Constructor:
 
